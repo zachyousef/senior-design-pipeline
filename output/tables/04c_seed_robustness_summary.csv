@@ -1,0 +1,6 @@
+"metric","value"
+"n_seeds",5
+"mean_pairwise_ARI",0.6907
+"min_pairwise_ARI",0.5091
+"max_pairwise_ARI",0.8052
+"mean_pairwise_NMI",0.5263

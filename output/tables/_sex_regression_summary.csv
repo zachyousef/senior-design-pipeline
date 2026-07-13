@@ -1,0 +1,10 @@
+"test","k","sizes","xist_means","ari_vs_orig","nmi_vs_orig","n_cells"
+"sex-aware Harmony",2,"34,744 /  3,142","0.35 / -1.02",0.8102,0.6221,NA
+"sex-aware Harmony",3,"29,006 /  8,266 /    614","0.48 / -0.6 / -0.02",0.6779,0.5219,NA
+"sex-aware Harmony",4,"25,937 /  8,181 /  3,153 /    615","0.54 / -0.23 / -1.01 / -0.02",0.5105,0.4571,NA
+"within-female",2,"12,829",NA,NA,NA,12829
+"within-female",3,"12,296 /    490 /     43",NA,NA,NA,12829
+"within-female",4,"12,227 /    492 /     67 /     43",NA,NA,NA,12829
+"within-male",2,"23,695 /    605",NA,NA,NA,24300
+"within-male",3,"19,070 /  4,625 /    605",NA,NA,NA,24300
+"within-male",4,"17,481 /  4,620 /  1,587 /    612",NA,NA,NA,24300
